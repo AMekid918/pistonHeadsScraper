@@ -1,2 +1,2 @@
 # pistonHeadsScraper
-Scrapes Used Car listings from PistonHeads website
+Scrapes the first 40 pages of car listings from pistonheads.com 
